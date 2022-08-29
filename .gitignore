@@ -1,0 +1,11 @@
+npm init: inicializa um projeto com confirmação de dados
+npm init -y: inicializa um projeto sem confirmação de dados
+node nomeDoArquivo.js: executa o que está no arquivo
+node .: faz a mesma coisa que o comando anterior
+npm run dev: executa um comando especificado no package.json
+
+Ciclo de vida do JavaScript:
+
+- Funções que dependem de execução externa serão executadas em background;
+- A forma com que seu código é escrito é diferente da ordem que é executado;
+- Importante sempre manter a ordem de sua execução para evitar problemas;
